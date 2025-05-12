@@ -2,7 +2,7 @@
 id: adq2whboilcf08nmvnqb805
 title: Passport
 desc: ''
-updated: 1747062589079
+updated: 1747062880739
 created: 1747060588158
 ---
 
@@ -14,7 +14,8 @@ created: 1747060588158
 
 ## Команда
 
-[Галицын Матвей](galitsyn.md@phystech.edu), [Будицкий Егор](buditskii.ea@phystech.edu)
+[**Галицын Матвей**](https://github.com/Matvey787)  [galitsyn.md@phystech.edu],
+ [**Будицкий Егор**](https://github.com/ZEVS1206)  [buditskii.ea@phystech.edu]
 
 ## Цель проекта
 
